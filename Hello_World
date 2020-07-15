@@ -1,0 +1,7 @@
+public class Hi
+  {
+    public satic void main(String[] args)
+    {
+      System.out.println("Testing Purpose");
+    }
+  }
